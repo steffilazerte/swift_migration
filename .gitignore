@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Results
+Docs
+filter_data.R
+
+# Ignore all data files except the final one
+Data/*
+!Data/Datasets
+Data/Datasets/*
+!Data/Datasets/migration_details.csv
+!Data/README.md
