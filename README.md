@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/.svg)](https://zenodo.org/badge/latestdoi/)
+[![DOI](https://zenodo.org/badge/648380978.svg)](https://zenodo.org/badge/latestdoi/648380978)
 ![In Review](https://img.shields.io/badge/status-review-orange)
 
 # Shifts in breeding distribution, migration timing, and migration routes of two North American swift species
